@@ -28,7 +28,7 @@ jobs:
           git commit -m "auto update: $(date -u '+%Y-%m-%d %H:%M:%S')"
 
           # 推送到 GitHub（全量）
-          git remote set-url origin https://25175:${GH_PAT}@github.com/25175/tvyuan.git
+          git remote set-url origin https://hmz0123:${GH_PAT}@github.com/hmz0123/tvyuan.git
           git push origin HEAD:master
 
           # 推送到 Gitee（tvbox_full.json 被审查拦截451，不推送）
