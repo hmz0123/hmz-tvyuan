@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "360┃直连",
-      "name": "[1536KB/s|1527ms|稳] 360┃直连",
+      "name": "[602KB/s|1894ms|稳] 360┃直连",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -12,7 +12,7 @@
     },
     {
       "key": "360资源",
-      "name": "[1429KB/s|1668ms|稳] 360资源",
+      "name": "[570KB/s|1935ms|稳] 360资源",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -21,7 +21,7 @@
     },
     {
       "key": "360",
-      "name": "[1343KB/s|2248ms|稳] 360",
+      "name": "[568KB/s|1631ms|稳] 360",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -30,7 +30,7 @@
     },
     {
       "key": "🦚360┃采集",
-      "name": "[641KB/s|1534ms|稳] 🦚360┃采集",
+      "name": "[553KB/s|1673ms|稳] 🦚360┃采集",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod?",
       "searchable": 1,
@@ -38,26 +38,26 @@
       "filterable": 0
     },
     {
-      "key": "麒麟┃影音",
-      "name": "[3509KB/s|1231ms|稳] 麒麟┃影音",
+      "key": "*91麻豆",
+      "name": "[4262KB/s|301ms|稳] *91麻豆",
       "type": 1,
-      "api": "https://www.qlys.cc/api.php/provide/vod/",
+      "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "采集视频3",
-      "name": "[3164KB/s|991ms|稳] 采集视频3",
+      "key": "第一┃资源",
+      "name": "[3087KB/s|510ms|稳] 第一┃资源",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "api": "https://caiji.diyizy.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "鸡坤 | 采集",
-      "name": "[2111KB/s|750ms|稳] 鸡坤 | 采集",
+      "name": "[2874KB/s|555ms|稳] 鸡坤 | 采集",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -65,28 +65,28 @@
       "filterable": 0
     },
     {
-      "key": "烂大街",
-      "name": "[1954KB/s|1403ms|稳] 烂大街",
+      "key": "奶香 | 采集",
+      "name": "[2686KB/s|563ms|稳] 奶香 | 采集",
       "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "api": "https://naixxzy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🌼虎牙┃采集🌼",
-      "name": "[1937KB/s|757ms|稳] 🌼虎牙┃采集🌼",
+      "key": "IK",
+      "name": "[2685KB/s|672ms|稳] IK",
       "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "🎀红牛┃采集",
-      "name": "[1832KB/s|3199ms|稳] 🎀红牛┃采集",
+      "key": "🥣爱坤┃影视",
+      "name": "[2495KB/s|627ms|稳] 🥣爱坤┃影视",
       "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
