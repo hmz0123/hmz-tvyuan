@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "360资源",
-      "name": "[470KB/s|2175ms|中] 360资源",
+      "name": "[482KB/s|2854ms|中] 360资源",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -11,26 +11,8 @@
       "filterable": 0
     },
     {
-      "key": "360┃资源",
-      "name": "[467KB/s|2352ms|中] 360┃资源",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🦚360┃采集",
-      "name": "[457KB/s|2253ms|中] 🦚360┃采集",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod?",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "360资源",
-      "name": "[452KB/s|2753ms|中] 360资源",
+      "key": "360",
+      "name": "[480KB/s|2143ms|中] 360",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -38,17 +20,26 @@
       "filterable": 0
     },
     {
-      "key": "大奶子 | 采集",
-      "name": "[7306KB/s|208ms|稳] 大奶子 | 采集",
+      "key": "🦚360┃采集",
+      "name": "[467KB/s|2103ms|中] 🦚360┃采集",
       "type": 1,
-      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "api": "https://360zy.com/api.php/provide/vod?",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "360┃直连",
+      "name": "[452KB/s|2880ms|中] 360┃直连",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "鸡坤 | 采集",
-      "name": "[6211KB/s|370ms|稳] 鸡坤 | 采集",
+      "name": "[3625KB/s|565ms|稳] 鸡坤 | 采集",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -56,17 +47,35 @@
       "filterable": 0
     },
     {
-      "key": "👖裤佬丨采集",
-      "name": "[5777KB/s|189ms|稳] 👖裤佬丨采集",
+      "key": "🎀红牛┃采集",
+      "name": "[3401KB/s|2122ms|稳] 🎀红牛┃采集",
       "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "大奶子 | 采集",
+      "name": "[2802KB/s|338ms|稳] 大奶子 | 采集",
+      "type": 1,
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "金鹰资源",
+      "name": "[2639KB/s|1612ms|稳] 金鹰资源",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "奶香 | 采集",
-      "name": "[5334KB/s|545ms|稳] 奶香 | 采集",
+      "name": "[2267KB/s|529ms|稳] 奶香 | 采集",
       "type": 1,
       "api": "https://naixxzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -74,19 +83,10 @@
       "filterable": 0
     },
     {
-      "key": "金鹰影视",
-      "name": "[5248KB/s|2368ms|稳] 金鹰影视",
+      "key": "魔都资源采集网",
+      "name": "[2197KB/s|1079ms|稳] 魔都资源采集网",
       "type": 0,
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "金鹰资源",
-      "name": "[4978KB/s|2374ms|稳] 金鹰资源",
-      "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
